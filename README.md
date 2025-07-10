@@ -17,6 +17,7 @@ I’m a student from Kerala who jumped into the tech world with no clue what Git
 ## 🚀 Projects I’m Proud Of
 
 🪄 **AI Eidetic** – Ongoing project: AI tool to remember everything important from any date. 
+
 🧠 **Fake News or Not?** – Chrome extension idea to detect misinformation using AI  
 🎮 **Space Rock Paper Scissors** – A fun mini-game with a galaxy theme & custom fonts  
 
