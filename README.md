@@ -16,12 +16,37 @@ I’m a student from Kerala who jumped into the tech world with no clue what Git
 
 ## 🚀 Projects I’m Proud Of
 
-🪄 **AI Eidetic** – Ongoing project: AI tool to remember everything important from any date. 
-
-🧠 **Fake News or Not?** – Chrome extension idea to detect misinformation using AI  
-🎮 **Space Rock Paper Scissors** – A fun mini-game with a galaxy theme & custom fonts  
+### 🚗 [Car Price Prediction] 
+Predicts used car prices based on features like brand, fuel type, kilometers driven, etc.  
+🛠️ Tools: Python, Pandas, Scikit-learn, Jupyter Notebook  
+📌 My first machine learning project — learned regression, preprocessing, and evaluation.
 
 ---
+
+### 🪐 [Rock Paper Scissors Game]
+Fun browser-based Rock Paper Scissors game built using JavaScript.  
+🎨 Custom visuals + interactive logic = beginner web magic!  
+🛠️ Tools: HTML, CSS, JavaScript
+
+---
+
+### 🎬 [Movie Review App]  
+Basic web app for users to write and read movie reviews.  
+🛠️ Tools: HTML, CSS, JS (Frontend); possibly backend planned  
+📌 Learned how user input and review flow work in a web project.
+
+---
+
+### 🧠 [Fake or Real News Detector]
+Built a web application that detects whether a given phrase is real or fake news using AI.
+🔧 Tools used:
+Python, Flask, HTML, CSS, JavaScript, OpenAI API (GPT-3.5), Postman, VS Code.
+
+---
+
+### 📊 [IMDb Movie Analysis]
+Analyzes the top movies in each genre.
+🛠️ Tools: Google Colab, python, IMDB movie dataset, pandas
 
 ## 💻 Currently Exploring
 
